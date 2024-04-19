@@ -1,0 +1,21 @@
+<resources>
+    <!-- Pirmās aktivitātes strings -->
+    <string name="app_name">TicTacToeVinetaBitte</string>
+    <string name="home_text">Tic Tac Toe</string>
+    <string name="pvc_mode">Single Player</string>
+    <string name="pvp_mode">Multi Player</string>
+    <string name="title_activity_name_choice">Name_choice</string>
+    <!-- Otrās aktivitātes strings  -->
+    <string name="name_inputs_text">Input your names</string>
+    <string name="player1_name">First Player</string>
+    <string name="player2_name">Second Player</string>
+    <string name="submit_names_button">Submit</string>
+    <string name="player1_edit_text" />
+    <string name="player2_edit_text" />
+    <string name="enter_hint">Enter Your Name Here</string>
+    <!--Trešās aktivitātes strings -->
+    <string name="home_button">Home</string>
+    <string name="play_again_button">Play Again</string>
+    <string name="display_turn">It is %s turn!</string>
+    <string name="first_message">Player %s starts!</string>
+</resources>
